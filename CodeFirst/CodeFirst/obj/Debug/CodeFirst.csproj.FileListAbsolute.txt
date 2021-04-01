@@ -1,0 +1,14 @@
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
+F:\Learning Projects\EntityFramework_Learn\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache

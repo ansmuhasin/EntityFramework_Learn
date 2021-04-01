@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Learning_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblEmployee">
+    <Key>
+      <PropertyRef Name="EmployeeNumber" />
+    </Key>
+    <Property Name="EmployeeNumber" Type="int" Nullable="false" />
+    <Property Name="EmployeeFirstName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="EmployeeMiddleName" Type="varchar" MaxLength="50" />
+    <Property Name="EmployeeLastName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="EmployeeGovernmentID" Type="varchar" MaxLength="12" />
+    <Property Name="DateOfBirth" Type="date" Nullable="false" />
+    <Property Name="Department" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Learning_DBModelStoreContainer">
+    <EntitySet Name="tblEmployee" EntityType="Self.tblEmployee" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
