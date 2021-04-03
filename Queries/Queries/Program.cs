@@ -79,7 +79,31 @@ namespace Queries
             //var authorIDs = author.Select(x => x.Id);
             //context.Courses.Where(c => authorIDs.Contains(c.Id)).Load();
 
+            //Adding items
+            //var author = context.Authors.FirstOrDefault(x => x.Id == 1);
+            //var course = new Course
+            //{
+            //    Name = "New Course",
+            //    Description = "New Description",
+            //    FullPrice = 19.95f,
+            //    Level = 1,
+            //    Author = author
+            //};
+            //context.Courses.Add(course);
+            //context.SaveChanges();
 
+            ////Updating the course
+            //Course course = context.Courses.Find(10);
+            //course.AuthorId = 2;
+            //course.Level = 3;
+            //context.SaveChanges();
+
+            //deleting the values
+            //Course course = context.Courses.Find(10);
+            //context.Courses.Remove(course);
+            //context.SaveChanges();
+
+            var changes = context.ChangeTracker.Entries();
         }
     }
 }
